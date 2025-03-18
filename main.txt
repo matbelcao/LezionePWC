@@ -1,1 +1,2 @@
-questa riga di testo e' stata inserita dallo sviluppatore DEV A
+questa riga di testo e' stata inserita con il primo commit dallo sviluppatore DEV A
+anche questa riga e' stata inserita da DEV A, ma con un secondo commit
